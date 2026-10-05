@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name         Ejudge Auto Login
-// @namespace    https://ejudge.kruzhokinf.com/
 // @version      1.0.0
 // @description  Автоматический ввод email и вход на ejudge.kruzhokinf.com
 // @homepageURL  https://github.com/kash-ts/autologin-ejudge.kruzhokinf
